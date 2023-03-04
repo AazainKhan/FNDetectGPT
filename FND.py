@@ -8,3 +8,6 @@ from sklearn.metrics import classification_report # generating a human-readable 
 import re # determine if a given text fits the given regular expression 
 import string 
 
+data_fake = pd.read_csv('Datasets/Fake.csv')
+data_true = pd.read_csv('Datasets/True.csv')
+
