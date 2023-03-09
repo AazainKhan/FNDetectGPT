@@ -42,6 +42,10 @@ To set your ‘OPENAI_API_KEY’ Environment Variable using bash:
 
 Follow the directions in Option 1, replacing .zshrc with .bash_profile.
 
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
